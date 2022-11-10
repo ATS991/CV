@@ -1,0 +1,37 @@
+body{
+  background-color:#E0ECE4;
+}
+hr{
+  border-style: dotted none none none;
+  border-color:#3F4E4F;
+  border-width: 4px;
+  width: 5%;
+}
+img{
+  height: 140px;
+}
+h1{
+  color:#E0ECE4;
+}
+h2{
+  color:#3F4E4F;
+}
+h3{
+  color:#3F4E4F;
+  text-decoration: underline #3F4E4F;
+}
+.background{
+  background-color:#3F4E4F;
+}
+p{
+  color:#E0ECE4;
+}
+li{
+  color:#3F4E4F;
+}
+.color{
+  color:#3F4E4F;
+}
+.contact{
+  color:#3F4E4F;
+}
