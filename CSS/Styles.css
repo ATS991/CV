@@ -1,9 +1,9 @@
 body{
-  background-color:#E0ECE4;
+  background-color: #EFF5F5;
 }
 hr{
   border-style: dotted none none none;
-  border-color:#3F4E4F;
+  border-color:#3C4048;
   border-width: 4px;
   width: 5%;
 }
@@ -11,27 +11,28 @@ img{
   height: 140px;
 }
 h1{
-  color:#E0ECE4;
+  color: white;
 }
 h2{
-  color:#3F4E4F;
+  color:#0D4C92;
 }
 h3{
-  color:#3F4E4F;
-  text-decoration: underline #3F4E4F;
+  color:#3C4048;
+  text-decoration: underline #3C4048;
 }
 .background{
-  background-color:#3F4E4F;
+  background-image: linear-gradient(to left, #DECBA4, #3E5151);
 }
 p{
-  color:#E0ECE4;
+  color:white;
 }
 li{
-  color:#3F4E4F;
+  color:#3C4048;
 }
 .color{
-  color:#3F4E4F;
+  color:#3C4048;
 }
 .contact{
-  color:#3F4E4F;
+  color:#3C4048;
+
 }
